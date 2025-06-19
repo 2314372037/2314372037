@@ -1,7 +1,5 @@
-- 👋 初中时看了一部小说叫《黑客无间道》，从此就对黑客技术，编程产生兴趣，一发不可收拾...
-- 👀 喜欢Android，喜欢Windows
-- 🌱 正在学习Ffmpeg，Android Compose，OpenGL，Vulkan，AOSP，还有...
-- 💞️ 。
+- 👋 初中时看了一部小说叫《黑客无间道》，从此就对编程和黑客技术产生兴趣...
+- 👀 对AOSP，FFmpeg，Android Compose，Vulkan等感兴趣
 - 📫 可以通过邮箱zh2314372037@outlook.com联系我
 
 <!---
