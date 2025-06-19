@@ -2,7 +2,7 @@
 - 👀 对AOSP，FFmpeg，Android Compose，Vulkan，LK2ND等感兴趣
 - 📫 可以通过邮箱zh2314372037@outlook.com联系我
 
-![Lumia930启动lk2nd](https://github.com/2314372037/2314372037/blob/main/IMG_20250526_225527.jpg)
+![Lumia930启动lk2nd](https://github.com/2314372037/2314372037/blob/main/lumia930lk2nd.png =520x820)
 
 <!---
 2314372037/2314372037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
