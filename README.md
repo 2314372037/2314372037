@@ -2,7 +2,8 @@
 - 📫 邮箱zh2314372037@outlook.com
 
 <img src="https://github.com/2314372037/2314372037/blob/main/lumia930lk2nd.png" width="320px" height="480px" >
-<img src="https://github.com/2314372037/2314372037/blob/main/0846262e8897750450f25aa60bbd6146.jpeg" width="320px" height="640px" >
+
+<img src="https://github.com/2314372037/2314372037/blob/main/0846262e8897750450f25aa60bbd6146.jpeg" width="320px" height="720px" >
 
 <!---
 2314372037/2314372037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
